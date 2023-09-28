@@ -13,6 +13,8 @@ public class Main {
         System.out.println("firs commit");
         System.out.println("firs commit");
         System.out.println("firs commit");
+        System.out.println("firs commit");
+        System.out.println("firs commit");
         menu.getMenu();
 
     }
