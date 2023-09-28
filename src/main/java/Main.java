@@ -11,6 +11,8 @@ public class Main {
         Menu menu = new MainMenu();
         System.out.println("firs commit");
         System.out.println("firs commit");
+        System.out.println("firs commit");
+        System.out.println("firs commit");
         menu.getMenu();
 
     }
