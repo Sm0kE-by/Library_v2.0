@@ -9,6 +9,8 @@ public class Main {
     public static void main(String[] args) {
 
         Menu menu = new MainMenu();
+        System.out.println("firs commit");
         menu.getMenu();
+
     }
 }
